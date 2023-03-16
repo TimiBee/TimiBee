@@ -1,9 +1,7 @@
-[![Masterhead align="center"](https://awesomescreenshot.s3.amazonaws.com/image/4046346/37373811-2ebb2956c03ca7e2b2ee09dd6d71b994.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230223T101021Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a105eca346d31cdbf2ebb5aef593db6d01d659c9b98fbbce51018fcb116df69)](https://his-royal-codeness.netlify.app)
+
 
 <h1 align="center">Hi 👋, I'm Timi Busayo</h1>
 <h3 align="center">Meticulous, Patient-focused, Multi-skilled and Passionate Software Developer. I'm a Problem Solver</h3>
-<img align="right" alt="Coding" src="https://awesomescreenshot.s3.amazonaws.com/image/4046346/37374023-5b06c2454e5db59404c2242bbcfa090e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230223T101240Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc1a0a0d48a2ebbbb86513a075a19b96d7d0e50050edfb15d1d0572574ef3094" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trigdev&label=Profile%20views&color=0e75b6&style=flat" alt="trigdev" /> </p>
 
@@ -33,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TimiBee&show_icons=true&locale=en" alt="TimiBee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimiBee&" alt="TimiBee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimiBee" alt="TimiBee" /></p>
