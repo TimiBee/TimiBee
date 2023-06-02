@@ -3,24 +3,25 @@
 <h1 align="center">Hi 👋, I'm Timi Busayo</h1>
 <h3 align="center">Meticulous, Patient-focused, Multi-skilled and Passionate Software Developer. I'm a Problem Solver</h3>
 
-<p align="left"> website <a href="https://busayomi.vercel.app/">
 <p align="left"> <a href="https://twitter.com/Timi_Bee_" target="blank"><img src="https://img.shields.io/twitter/follow/Timi_Bee?logo=twitter&style=for-the-badge" alt="TimiBee_" /></a> </p>
 
 - 🔭 I’m currently working on **PHP**
 
-- 🌱 I’m currently learning **Typescript, JS,**
+- 🌱 I’m currently learning **Typescript, JS, Nextjs,**
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **NODEJS, Javascript, SCSS**
+- 💬 Ask me about **NODEJS, Javascript, Nodejs, Reactjs, SCSS**
 
 - 📫 How to reach me **atimilewis55gmail.com**
+
+- **https://busayomi.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://busayomi.vercel.app/">
 <a href="https://twitter.com/Timi_Bee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahor_trey" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/busayo-timi-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahor-isaac-2051ba222" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/busayo-timi-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Timi-Bee" height="30" width="40" /></a>
 <a href="https://instagram.com/Timi_b_busayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shidoon_" height="30" width="40" /></a>
 </p>
 
