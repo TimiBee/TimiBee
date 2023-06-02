@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Timi Busayo</h1>
 <h3 align="center">Meticulous, Patient-focused, Multi-skilled and Passionate Software Developer. I'm a Problem Solver</h3>
 
-<p align="left"> <img src="https://busayomi.vercel.app/" alt="website" /> </p>
+<p align="left"> <img src="[https://busayomi.vercel.app/](https://komarev.com/ghpvc/?username=trigdev&label=Profile%20views&color=0e75b6&style=flat)" alt="website" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Timi_Bee_" target="blank"><img src="https://img.shields.io/twitter/follow/Timi_Bee?logo=twitter&style=for-the-badge" alt="TimiBee_" /></a> </p>
 
