@@ -10,8 +10,6 @@
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
 
-<p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TimiBee&label=Profile%20views&color=0e75b6&style=flat" alt="TimiBee" /> </p>
 
 
