@@ -45,10 +45,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TimiBee&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="TimiBee" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TimiBee&show_icons=true&locale=en" alt="TimiBee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TimiBee&show_icons=true&locale=en&bg_color=00000000" alt="TimiBee" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimiBee&" alt="TimiBee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimiBee&show_icons=true&local=enbg_color=00000000" alt="TimiBee" /></p>
 
-![TimiBee's GitHub stats](https://github-readme-stats.vercel.app/api?username=aTimiBee&hide=contribs,prs)
