@@ -13,15 +13,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TimiBee&label=Profile%20views&color=0e75b6&style=flat" alt="TimiBee" /> </p>
 
 
-####      <div align="center">![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue)  ![](https://img.shields.io/badge/Nuxt-blue)  ![](https://img.shields.io/badge/Node-blue)  ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Netlify-blue)  ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/PHP-blue)![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) </div>
+####      <div align="center">![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Next-blue)  ![](https://img.shields.io/badge/Nuxt-blue)  ![](https://img.shields.io/badge/Node-blue)  ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Netlify-blue)  ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JAVA-blue)![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) </div>
 
-- 🔭 I’m currently working on **JavaScript,Typescript,Reactjs, Nextjs & PHP**
+- 🔭 I’m currently working on **JAVA, PYTHON, C, JavaScript,Typescript,Reactjs, Nextjs & PHP**
 
-- 🌱 I’m currently learning **,NodeJS, ExpressJS & MongoDB**
+- 🌱 I’m currently learning **WEB3, NodeJS, ExpressJS & MongoDB**
 
 - 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **NODEJS, Javascript, Nodejs, Reactjs, SCSS**
+- 💬 Ask me about **JAVA, Javascript, Nodejs, Reactjs, SCSS**
 
 - 📫 How to reach me **atimilewis55@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/TimiBee](https://github.com/TimiBee)
