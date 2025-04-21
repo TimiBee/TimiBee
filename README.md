@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **JAVA, Javascript, Nodejs, Reactjs, SCSS**
 
-- 📫 How to reach me **atimilewis55@gmail.com**
+- 📫 How to reach me **akomoledebusayotimi@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/TimiBee](https://github.com/TimiBee)
 
 
