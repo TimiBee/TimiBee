@@ -16,11 +16,11 @@
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next-blue)  ![](https://img.shields.io/badge/Nuxt-blue)  ![](https://img.shields.io/badge/Node-blue)  ![](https://img.shields.io/badge/FastAPI-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Netlify-blue)  ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/JAVA-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C-blue) </div>
 
 
-- 🔭 I’m currently working on **JAVA,JavaScript,Typescript,Reactjs, & Nextjs**
+- 🔭 I’m currently working on **JAVA, JavaScript, Typescript, Reactjs, & Nextjs**
 
-- 🌱 I’m currently learning **WEB3**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **WEB3**
 
 - 💬 Ask me about **JAVA, Javascript, Nodejs, Reactjs**
 
