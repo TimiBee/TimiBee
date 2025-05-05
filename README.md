@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **JAVA, JavaScript, Typescript, Reactjs, & Nextjs**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and C**
 
 - 🤝 I’m looking for help with **WEB3**
 
