@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Python and C Language**
 
-- 🤝 I’m looking for help with **WEB3**
+- 🤝 I’m looking for help with **Swift**
 
 - 💬 Ask me about **JAVA, Javascript, Nodejs, Reactjs**
 
